@@ -1,2 +1,3 @@
 # Problem Solving
-Solving programming problems with innovative solution in C language
+Solving programming problems with innovative solutions in C language
+![Simulation-ScreenShot](./Problem_Solving.PNG)
