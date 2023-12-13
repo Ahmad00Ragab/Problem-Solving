@@ -6,7 +6,7 @@
  *******************************************************************************/
 
 /*
- * problem:
+ * problem: https://github.com/Ahmad00Ragab/Problem-Solving/blob/main/Longest_Palindrome/problem.PNG
  *
  */
 
