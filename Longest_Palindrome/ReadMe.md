@@ -1,2 +1,2 @@
 #Problem
-![Simulation-ScreenShot](./Problem.PNG)
+![Simulation-ScreenShot](./problem.PNG)
